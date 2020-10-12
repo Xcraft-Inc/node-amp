@@ -1,7 +1,7 @@
 {
-  "name": "amp",
+  "name": "xcraft-amp",
   "version": "0.3.1",
-  "repository": "visionmedia/node-amp",
+  "repository": "Xcraft-Inc/node-amp",
   "description": "Abstract messaging protocol",
   "keywords": [
     "amp",
